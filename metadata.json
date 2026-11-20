@@ -1,0 +1,6 @@
+{
+  "name": "The Middelland Hotel, Sonder",
+  "description": "A premium luxury hotel website for The Middelland Hotel, Sonder in Rotterdam, Netherlands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
